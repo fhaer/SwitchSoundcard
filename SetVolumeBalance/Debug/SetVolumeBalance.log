@@ -1,0 +1,32 @@
+﻿Der Buildvorgang wurde am 12.06.2011 19:56:13 gestartet.
+     1>Projekt "c:\Users\Felix\documents\visual studio 2010\Projects\SetVolumeBalance\SetVolumeBalance\SetVolumeBalance.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\SetVolumeBalance.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         Alle Ausgaben sind aktuell.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\SetVolumeBalance.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SetVolumeBalance.cpp
+         SetVolumeBalance.cpp
+     1>c:\users\felix\documents\visual studio 2010\projects\setvolumebalance\setvolumebalance\setvolumebalance.cpp(36): warning C4305: 'Argument': Verkürzung von 'double' in 'float'
+     1>c:\users\felix\documents\visual studio 2010\projects\setvolumebalance\setvolumebalance\setvolumebalance.cpp(37): warning C4305: 'Argument': Verkürzung von 'double' in 'float'
+     1>c:\users\felix\documents\visual studio 2010\projects\setvolumebalance\setvolumebalance\setvolumebalance.cpp(39): warning C4305: 'Argument': Verkürzung von 'double' in 'float'
+     1>c:\users\felix\documents\visual studio 2010\projects\setvolumebalance\setvolumebalance\setvolumebalance.cpp(40): warning C4305: 'Argument': Verkürzung von 'double' in 'float'
+       ManifestResourceCompile:
+         Alle Ausgaben sind aktuell.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\felix\documents\visual studio 2010\Projects\SetVolumeBalance\Debug\SetVolumeBalance.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SetVolumeBalance.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\felix\documents\visual studio 2010\Projects\SetVolumeBalance\Debug\SetVolumeBalance.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\felix\documents\visual studio 2010\Projects\SetVolumeBalance\Debug\SetVolumeBalance.lib" /MACHINE:X86 Debug\SetVolumeBalance.exe.embed.manifest.res
+         Debug\SetVolumeBalance.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SetVolumeBalance.exe.embed.manifest" /manifest Debug\SetVolumeBalance.exe.intermediate.manifest
+         Alle Ausgaben sind aktuell.
+       LinkEmbedManifest:
+         Alle Ausgaben sind aktuell.
+         SetVolumeBalance.vcxproj -> c:\users\felix\documents\visual studio 2010\Projects\SetVolumeBalance\Debug\SetVolumeBalance.exe
+       FinalizeBuildStatus:
+         Die Datei "Debug\SetVolumeBalance.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\SetVolumeBalance.lastbuildstate".
+     1>Die Erstellung des Projekts "c:\Users\Felix\documents\visual studio 2010\Projects\SetVolumeBalance\SetVolumeBalance\SetVolumeBalance.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:01.25

@@ -1,0 +1,24 @@
+﻿Der Buildvorgang wurde am 03.10.2013 11:51:14 gestartet.
+     1>Projekt "C:\Users\felix_000\Documents\Visual Studio 2012\Projects\SwitchSoundcard\SetVolumeBalance\SetVolumeBalance.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\SwitchSoundcard.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SwitchSoundcard.cpp
+         SwitchSoundcard.cpp
+     1>SwitchSoundcard.cpp(43): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>SwitchSoundcard.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357): Siehe Deklaration von 'sprintf'
+     1>SwitchSoundcard.cpp(76): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357): Siehe Deklaration von 'sprintf'
+     1>SwitchSoundcard.cpp(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357): Siehe Deklaration von 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\felix_000\Documents\Visual Studio 2012\Projects\SwitchSoundcard\Release\SwitchSoundcard.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\felix_000\Documents\Visual Studio 2012\Projects\SwitchSoundcard\Release\SwitchSoundcard.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\felix_000\Documents\Visual Studio 2012\Projects\SwitchSoundcard\Release\SwitchSoundcard.lib" /MACHINE:X86 /SAFESEH Release\SwitchSoundcard.res
+         Release\SwitchSoundcard.obj
+         Release\stdafx.obj
+         Code wird generiert.
+         Codegenerierung ist abgeschlossen.
+         SetVolumeBalance.vcxproj -> C:\Users\felix_000\Documents\Visual Studio 2012\Projects\SwitchSoundcard\Release\SwitchSoundcard.exe
+     1>Die Erstellung des Projekts "C:\Users\felix_000\Documents\Visual Studio 2012\Projects\SwitchSoundcard\SetVolumeBalance\SetVolumeBalance.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.67
